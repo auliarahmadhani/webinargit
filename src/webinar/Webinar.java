@@ -17,6 +17,9 @@ public class Webinar {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello! I,m studying about git");
+        System.out.println("hello, I'm in branch 1 ");
+        System.out.println("hello, i'm move to branch 2");
+        System.out.println("hello, i'm still in branch 1...");
     }
     
 }
